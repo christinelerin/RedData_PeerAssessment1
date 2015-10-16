@@ -1,25 +1,5 @@
 # RedData_PeerAssessment1
 
-Skip to content
-This repository  
-Search
-Pull requests
-Issues
-Gist
- @christinelerin
- Watch 11
-  Star 25
-  Fork 18,957 rdpeng/RepData_PeerAssessment1
-Browse files
-Update instructions/README
- master
-commit a7035a173d099bd0c61e0d6ec13d1f01d8238032 1 parent 9abcd99
-@rdpeng rdpeng authored on Feb 12, 2014
-Unified Split
-Showing  2 changed files  with 146 additions and 3 deletions.
- View 149  README.md
-@@ -1,4 +1,147 @@
--RepData_PeerAssessment1
 -=======================
 +## Introduction
  
@@ -156,5 +136,17 @@ Showing  2 changed files  with 146 additions and 3 deletions.
 +using any plotting system you choose.
 +
 +
-
++## Submitting the Assignment
++
++To submit the assignment:
++
++1. Commit the your completed `PA1_template.Rmd` file to the `master` branch of your git repository (you should already be on the `master` branch unless you created new ones)
++
++2. Commit your `PA1_template.md` and `PA1_template.html` files produced by processing your R markdown file with `knit2html()` function in R (from the **knitr** package)
++
++3. If your document has figures included (it should) then they should have been placed in the `figures/` directory by default (unless you overrided the default). Add and commit the `figures/` directory to yoru git repository.
++
++4. Push your `master` branch to GitHub.
++
++5. Submit the URL to your GitHub repository for this assignment on the course web site.
 
